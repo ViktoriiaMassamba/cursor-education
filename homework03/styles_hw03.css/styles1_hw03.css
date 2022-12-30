@@ -1,0 +1,127 @@
+.banner3 {
+    height: 72px;
+    width: 560px;
+    border-radius: 16px;
+    padding: 16px;
+    background: #FFFFFF;
+    display: flex;
+    margin: 24px;
+}
+
+.img3 {
+    height: 36px;
+    width: 36px;
+    border-radius: 10px;
+    padding: 8px;
+    display: flex;
+    background: rgba(234, 76, 137, 0.1);
+    border-radius: 10px;  
+}
+
+
+.text3 {
+    height: 40px;
+    width: 347px;
+    left: 62px;
+    top: 16px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #0D0C22;
+    margin-left: 10px;
+}
+
+.link3 {
+    color: #EA4C89;
+}
+
+.Button30 {
+    height: 28px;
+    width: 63px;
+    top: 22px;
+    border-radius: 8px;
+    border: 0; /* кнопка без контура*/
+    padding: 4px 10px 4px 10px;
+    display: flex;
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 10px;
+}
+
+.Button31 {
+    height: 28px;
+    width: 52px;
+    top: 22px;
+    border-radius: 8px;
+    border: 0;
+    padding: 4px 10px 4px 10px;
+    display: flex;
+    color: #FFFFFF;
+    background-color: #EA4C89;
+    text-align: left;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 10px;
+}
+
+.banner4 {
+    height: 64px;
+    width: 560px;
+    background:#26262B;
+    display: flex;
+    margin: 24px;
+    border-radius: 10px;
+    padding: 12px 16px 12px 16px;
+}
+
+.text4 {
+    height: 40px;
+    width: 469px;
+    left: 16px;
+    top: 12px;
+    color: #FFFFFF;
+    font-family: 'Avenir LT Std';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+
+.Button4 {
+    height: 28px;
+    width: 49px;
+    left: 495px;
+    top: 18px;
+    border-radius: 8px;
+    padding: 4px 10px 4px 10px;
+    color: #26262B;
+    font-family: 'Avenir LT Std';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    margin-top: 4px;
+    display: flex;
+}
+
+.link4 {
+    color: #E6842E;
+}

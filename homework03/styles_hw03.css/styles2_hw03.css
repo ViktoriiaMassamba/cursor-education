@@ -1,0 +1,147 @@
+.blok1 {
+    height: 206px;
+    width: 760px;
+    display: flex;
+
+}
+
+.banner51 {
+    height: 32px;
+    width: 312px;
+    left: 24px;
+    top: 150px;
+    justify: space-between;
+    display: flex;    
+}
+
+.banner5 {
+    height: 206px;
+    width: 360px;
+    padding: 24px;
+    background: #1C2540F2;
+    display: flex;
+    margin: 24px;
+    border-radius: 10px;
+}
+
+.text50 {
+    height: 20px;
+    width: 126px;
+    font-family:'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.text51 {
+    height: 80px;
+    width: 312px;
+    top: 30px;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+
+.text52 {
+    height: 16px;
+    width: 160px;
+    top: 8px;
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 8px;
+}
+
+.Button5 {
+    height: 32px;
+    width: 85px;
+    left: 227px;
+    border-radius: 6px;
+    padding: 8px 20px 8px 20px;
+    background: #09B3AF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    gap: 10px;
+    border: 0; /* без рамки*/
+    margin-left: 68px;
+
+}
+
+.banner6 {
+    height: 170px;
+    width: 360px;
+    left: 400px;
+    padding: 16px;
+    background: #ffffff;
+    display: flex;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.text60 {
+    height: 20px;
+    width: 137px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+}
+
+.text61 {
+    height: 60px;
+    width: 328px;
+    top: 30px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.Button60 {
+    height: 32px;
+    width: 160px;
+    border-radius: 6px;
+    padding: 8px;
+    background: #EAF0F4;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    border: 0;
+}
+
+.Button61 {
+    height: 32px;
+    width: 160px;
+    left: 168px;
+    border-radius: 6px;
+    padding: 8px;
+    background: #40C1A7;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    text-align: center;
+    border: 0;
+}
+    
