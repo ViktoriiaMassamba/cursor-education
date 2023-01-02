@@ -1,0 +1,120 @@
+contact {
+    height: 500px;
+    width: 1440px;
+    background: #ffffff; 
+    display: flex;
+}
+
+.contact_text1 {
+    height: 160px;
+    width: 445px;
+    margin: 117px 0px 223px 176px;
+}
+
+.Contact_h1 {
+    height: 107px;
+    width: 445px;
+    font-family: Lato;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+}
+
+.Contact_p {
+    height: 64px;
+    width: 434px;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.form_contact {
+    height: 305px;
+    width: 540px;
+    margin-left: 114px;
+    margin-top: 117px;
+    margin-bottom: 165px;
+    margin-bottom: 123px;
+    border-radius: 6px;
+}
+
+.blok_first_part {
+    display: flex;
+}
+
+.blok_name1, .blok_name2 {
+    height: 60px;
+    width: 255px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    font-family: 'Lato';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    margin-bottom: 24px;
+    background: #ffffff;
+}
+
+.blok_name1 {
+    margin-right: 30px; 
+}
+
+
+.Phone_Number {
+    height: 60px;
+    width: 540px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    font-family: 'Lato';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    margin-bottom: 24px;
+    background: #ffffff;
+}
+
+.blok_Service {
+    height: 60px;
+    width: 540px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    font-family: 'Lato';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: left;
+    margin-bottom: 24px;
+    background: #ffffff;
+    display: flex;
+}
+
+.button_form_contact {
+    box-sizing: border-box;
+    width: 160px;
+    height: 50px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+    color: #ffffff;
+    padding: 17px 34px 16px 34px;
+}
+
+.image6 {
+    height: 14px;
+    width: 14px;
+    margin-bottom: 23px;margin-left: 365px;
+}
+
+.blok_Service, .Phone_Number, .blok_name2, .blok_name1 {
+    padding-top: 21px;
+    padding-left: 31px;
+    padding-bottom: 20px;
+}
